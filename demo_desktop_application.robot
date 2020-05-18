@@ -1,5 +1,5 @@
 *** Settings ***
-Library  C:\barani_repo\barani\barani\rep_word.py
+Library  C:/barani_repo/barani/barani/rep_word.py
 
 *** Variables ***
 
