@@ -1,6 +1,7 @@
 
 *** Test Cases ***
 For Test
+    [Tags]    test-tag
     : FOR    ${i}    IN RANGE    0    10
     \    Log    ${i}
     Log    Exited
